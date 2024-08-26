@@ -1,0 +1,5 @@
+site_name: URC Markdown Documentation Repo
+
+plugins:
+    - search
+    - mermaid2
